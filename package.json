@@ -1,0 +1,27 @@
+{
+  "name": "express-fileread",
+  "version": "1.0.0",
+  "description": "Playground for reading text file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "run index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhuKantipudi/express-fileRead.git"
+  },
+  "keywords": [
+    "express",
+    "fileread"
+  ],
+  "author": "siddhu.kantipudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddhuKantipudi/express-fileRead/issues"
+  },
+  "homepage": "https://github.com/siddhuKantipudi/express-fileRead#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
